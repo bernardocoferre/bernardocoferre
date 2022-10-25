@@ -2,7 +2,8 @@
 
 I'm a Backend Developer with more than 5 years of experience from :brazil: Brazil, currently working with Java (mostly with Quarkus and Spring), and highly experienced in software integration (SOA, REST, SOAP).
 
-### :computer: Things I code with
+## :computer:  Things I code with
+<p>
 <img alt="Quarkus" src="https://img.shields.io/badge/Quarkus-000000?style=for-the-badge&logo=quarkus" />
 <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
@@ -39,8 +40,9 @@ I'm a Backend Developer with more than 5 years of experience from :brazil: Brazi
 <img alt="Composer" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" />
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img alt="Electron" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
+</p>
 
-### :man: About me
+## :man:  About me
 - :brazil: From Brazil
 - :house: Living in Curitiba, Paraná
 - :books: Improving my skills with React
@@ -49,5 +51,7 @@ I'm a Backend Developer with more than 5 years of experience from :brazil: Brazi
 
 <br>
 
-<img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bernardocoferre&theme=vue&show_icons=true&include_all_commits=true&count_private=true&hide_title=true" />
-<img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardocoferre&layout=compact&theme=vue" />
+<p>
+<img height="183em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bernardocoferre&theme=vue&show_icons=true&include_all_commits=true&count_private=true&hide_title=true" />
+<img height="183em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardocoferre&layout=compact&theme=vue" />
+</p>
