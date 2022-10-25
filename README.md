@@ -52,6 +52,6 @@ I'm a Backend Developer with more than 5 years of experience from :brazil: Brazi
 <br>
 
 <p>
-<img height="183em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bernardocoferre&theme=vue&show_icons=true&include_all_commits=true&count_private=true&hide_title=true" />
-<img height="183em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardocoferre&layout=compact&theme=vue" />
+<img height="150em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bernardocoferre&theme=vue&show_icons=true&include_all_commits=true&count_private=true&hide_title=true" />
+<img height="150em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=bernardocoferre&layout=compact&theme=vue" />
 </p>
