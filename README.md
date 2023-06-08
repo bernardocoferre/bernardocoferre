@@ -1,6 +1,6 @@
 ![Hi, I'm Bernardo](header.png)
 
-I'm a Backend Developer with more than 5 years of experience from :brazil: Brazil, currently working with Java (mostly with Quarkus and Spring), and highly experienced in software integration (SOA, REST, SOAP).
+I'm a Backend Developer with more than 7 years of experience from :brazil: Brazil, currently working with Java (mostly with Quarkus and Spring), and highly experienced in software integration (SOA, REST, SOAP).
 
 ## :computer:  Things I code with
 <p>
@@ -44,7 +44,7 @@ I'm a Backend Developer with more than 5 years of experience from :brazil: Brazi
 
 ## :man:  About me
 - :brazil: From Brazil
-- :house: Living in Curitiba, Paraná
+- :canada: Living in Montreal, Quebec
 - :books: Improving my skills with React
 - :video_game: Gamer in my free time
 - :mailbox: Reach me at [bernardocoferre@gmail.com](mailto:bernardocoferre@gmail.com)
